@@ -1,0 +1,10 @@
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to 
+Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+The source of inspiration for this board is the AlienFlight F3 Brushed Quad (also released under
+CC-BY-SA). For more info on that project visit: 
+
+* Mirror: http://f3-quad.alienwhoop.us/
+* Source: http://alienflight.com/f3-brushed-quad/ # Seems to be offline
